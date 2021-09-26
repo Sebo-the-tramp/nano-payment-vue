@@ -63,7 +63,7 @@ If the payed sum is equal or more than the due amount, the boolean _is_payment_c
 ## Roadmap
 
 - Fix Google chrome bug
-
+- Add multiple concurrent payment handling
 - Add nice UX
   
 ## License
