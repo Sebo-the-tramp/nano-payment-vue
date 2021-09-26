@@ -1,0 +1,26 @@
+{
+  "name": "nano-payment-vue",
+  "version": "1.0.0",
+  "description": "A component to integrate nano payments into your website",
+  "main": "dist/nano-payment.umd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebo-the-tramp/nano-payment-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "vuetify",
+    "vuejs",
+    "nano",
+    "crypto"
+  ],
+  "author": "Sebastian Cavada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebo-the-tramp/nano-payment-vue/issues"
+  },
+  "homepage": "https://github.com/Sebo-the-tramp/nano-payment-vue#readme"
+}
